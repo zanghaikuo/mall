@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    哈哈
     <router-view></router-view>
     <main-tab-bar></main-tab-bar>
   </div>
